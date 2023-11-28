@@ -1,0 +1,13 @@
+dir = -148.0, cue_pos = [ 94. 259.], ball_pos = [ 44. 228.], pocket = 4
+dir = -22.0, cue_pos = [ 30. 421.], ball_pos = [ 93. 395.], pocket = 4
+dir = 56.0, cue_pos = [ 24. 471.], ball_pos = [ 44. 501.], pocket = 4
+dir = 30.0, cue_pos = [ 38. 264.], ball_pos = [ 93. 296.], pocket = 5
+dir = 32.0, cue_pos = [ 58. 449.], ball_pos = [ 91. 470.], pocket = 6
+dir = 56.0, cue_pos = [ 62. 268.], ball_pos = [ 92. 312.], pocket = 6
+dir = 67.0, cue_pos = [ 24. 276.], ball_pos = [ 33. 297.], pocket = 4
+dir = -21.0, cue_pos = [ 24. 364.], ball_pos = [ 88. 339.], pocket = 2
+dir = -14.0, cue_pos = [ 36. 523.], ball_pos = [ 68. 515.], pocket = 4
+dir = 26.0, cue_pos = [ 33. 368.], ball_pos = [ 93. 397.], pocket = 3
+dir = -135.0, cue_pos = [ 91. 322.], ball_pos = [ 74. 305.], pocket = 3
+dir = -121.0, cue_pos = [ 32. 532.], ball_pos = [ 26. 522.], pocket = 2
+dir = -148.0, cue_pos = [ 68. 547.], ball_pos = [ 24. 519.], pocket = 4

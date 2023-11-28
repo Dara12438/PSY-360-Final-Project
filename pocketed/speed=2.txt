@@ -1,0 +1,29 @@
+dir = -170.0, cue_pos = [ 62. 366.], ball_pos = [ 45. 363.], pocket = 4
+dir = -33.0, cue_pos = [ 57. 480.], ball_pos = [ 91. 458.], pocket = 4
+dir = -119.0, cue_pos = [ 94. 382.], ball_pos = [ 79. 355.], pocket = 4
+dir = -155.0, cue_pos = [ 94. 367.], ball_pos = [ 35. 339.], pocket = 1
+dir = -154.0, cue_pos = [ 90. 348.], ball_pos = [ 51. 329.], pocket = 3     # weird case
+dir = -154.0, cue_pos = [ 90. 348.], ball_pos = [ 51. 329.], pocket = 2     # weird case
+dir = -127.0, cue_pos = [ 64. 290.], ball_pos = [ 27. 241.], pocket = 5
+dir = -76.0, cue_pos = [ 68. 518.], ball_pos = [ 83. 459.], pocket = 4
+dir = 80.0, cue_pos = [ 70. 276.], ball_pos = [ 81. 336.], pocket = 2
+dir = -46.0, cue_pos = [ 52. 313.], ball_pos = [ 93. 270.], pocket = 2
+dir = 151.0, cue_pos = [ 68. 523.], ball_pos = [ 25. 547.], pocket = 3
+dir = -10.0, cue_pos = [ 26. 416.], ball_pos = [ 85. 406.], pocket = 3
+dir = -69.0, cue_pos = [ 58. 549.], ball_pos = [ 82. 488.], pocket = 2
+dir = -98.0, cue_pos = [ 45. 542.], ball_pos = [ 37. 483.], pocket = 1
+dir = -173.0, cue_pos = [ 75. 457.], ball_pos = [ 52. 454.], pocket = 4
+dir = 32.0, cue_pos = [ 42. 298.], ball_pos = [ 94. 330.], pocket = 5
+dir = -50.0, cue_pos = [ 45. 418.], ball_pos = [ 88. 367.], pocket = 6
+dir = -124.0, cue_pos = [ 41. 580.], ball_pos = [ 24. 555.], pocket = 3
+dir = 39.0, cue_pos = [ 35. 357.], ball_pos = [ 89. 400.], pocket = 6       # weird case
+dir = -99.0, cue_pos = [ 61. 434.], ball_pos = [ 50. 365.], pocket = 1
+dir = 96.0, cue_pos = [ 37. 370.], ball_pos = [ 32. 420.], pocket = 3
+dir = -33.0, cue_pos = [ 59. 293.], ball_pos = [ 91. 272.], pocket = 4
+dir = -27.0, cue_pos = [ 24. 553.], ball_pos = [ 78. 526.], pocket = 3
+dir = -137.0, cue_pos = [ 87. 347.], ball_pos = [ 36. 300.], pocket = 2
+dir = 2.0, cue_pos = [ 48. 306.], ball_pos = [ 73. 307.], pocket = 4
+dir = 102.0, cue_pos = [ 46. 339.], ball_pos = [ 34. 397.], pocket = 5
+dir = 107.0, cue_pos = [ 44. 447.], ball_pos = [ 29. 497.], pocket = 5
+dir = -26.0, cue_pos = [ 55. 581.], ball_pos = [ 88. 565.], pocket = 3
+dir = -60.0, cue_pos = [ 37. 432.], ball_pos = [ 72. 372.], pocket = 2
