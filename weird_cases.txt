@@ -1,0 +1,1 @@
+dir = 158.0, cue_pos = [  7. 323.], ball_pos = [-23. 335.], pocket = 5
