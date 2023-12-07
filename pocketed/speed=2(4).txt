@@ -20,3 +20,7 @@ dir = 36.0, cue_pos = [179.  22.], ball_pos = [226.  56.], pocket = 3
 dir = 18.0, cue_pos = [ 75. 569.], ball_pos = [128. 586.], pocket = 3
 dir = 174.0, cue_pos = [193. 185.], ball_pos = [144. 190.], pocket = 3
 dir = -78.0, cue_pos = [ 28. 579.], ball_pos = [ 42. 514.], pocket = 6
+dir = 19.0, cue_pos = [ 65. 521.], ball_pos = [102. 534.], pocket = 6
+dir = -54.0, cue_pos = [247. 194.], ball_pos = [270. 162.], pocket = 3
+dir = 164.0, cue_pos = [165. 149.], ball_pos = [148. 154.], pocket = 4
+dir = -83.0, cue_pos = [184.  56.], ball_pos = [191.  -5.], pocket = 4
