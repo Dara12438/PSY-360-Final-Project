@@ -24,3 +24,4 @@ dir = 19.0, cue_pos = [ 65. 521.], ball_pos = [102. 534.], pocket = 6
 dir = -54.0, cue_pos = [247. 194.], ball_pos = [270. 162.], pocket = 3
 dir = 164.0, cue_pos = [165. 149.], ball_pos = [148. 154.], pocket = 4
 dir = -83.0, cue_pos = [184.  56.], ball_pos = [191.  -5.], pocket = 4
+dir = 75.0, cue_pos = [83. 17.], ball_pos = [100.  82.], pocket = 4
